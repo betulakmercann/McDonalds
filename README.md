@@ -4,7 +4,6 @@
 
 McDonald'sta calıstıgım dönemdeki bir sorun üzerine üretilmistir.
 
-## ?çerik
+## Icerik
 
-- `BETUL AKMERCAN PROJE.sql` — McDonald's sipari? ve personel yönetimi veritaban? ?emas?
-- `VTBETUL.sql` — Hastane randevu sistemi veritaban? ?emas?
+- `BETUL AKMERCAN PROJE.sql` — McDonald's siparis ve personel yönetimi veritabani semasi
