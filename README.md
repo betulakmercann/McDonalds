@@ -2,8 +2,8 @@
 
 **2025**
 
-McDonald'sta calÄ±stÄ±gÄ±m dÃ¶nemdeki bir sorun Ã¼zerine Ã¼retilmistir.
+McDonald'sta çal??t???m dönemdeki bir sorun üzerine üretilmi?tir.
 
-## Icerik
+## ?çerik
 
-- `BETUL AKMERCAN PROJE.sql` â€” McDonald's siparis ve personel yÃ¶netimi veritabani semasi
+- `BETUL AKMERCAN PROJE.sql` — McDonald's sipari? ve personel yönetimi veritaban? ?emas?
