@@ -2,9 +2,9 @@
 
 **2025**
 
-McDonald'sta çal??t???m dönemdeki bir sorun üzerine üretilmi?tir.
+McDonald'sta calÄ±stÄ±gÄ±m dÃ¶nemdeki bir sorun Ã¼zerine Ã¼retilmistir.
 
-## ?çerik
+## ?Ã§erik
 
-- `BETUL AKMERCAN PROJE.sql` — McDonald's sipari? ve personel yönetimi veritaban? ?emas?
-- `VTBETUL.sql` — Hastane randevu sistemi veritaban? ?emas?
+- `BETUL AKMERCAN PROJE.sql` â€” McDonald's sipari? ve personel yÃ¶netimi veritaban? ?emas?
+- `VTBETUL.sql` â€” Hastane randevu sistemi veritaban? ?emas?
